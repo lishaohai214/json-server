@@ -157,7 +157,7 @@ http://localhost:3000/users?q=h
 
 ## 使用 postman  请求数据接口 
 
-![Image]()
+![Image](https://raw.githubusercontent.com/lshaohai/json-server/master/images/1.png)
 
 
 
